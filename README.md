@@ -11,5 +11,5 @@ Jalankan file program di VSCode atau terminal:
   
       python auto_key_vigenere_cipher.py
 # Output
-<img width="891" height="285" alt="image" src="https://github.com/user-attachments/assets/6067bfe7-bf74-41cd-af72-955c1b0196ad" />
-<img width="891" height="132" alt="image" src="https://github.com/user-attachments/assets/5d5237c2-5364-48de-99d8-8664ba3d08b4" />
+<img width="893" height="308" alt="image" src="https://github.com/user-attachments/assets/0fcc75d5-f420-4a05-80be-c315c0639fe4" />
+<img width="893" height="156" alt="image" src="https://github.com/user-attachments/assets/b7801897-c6c1-419b-af9b-374f6a7457e4" />
